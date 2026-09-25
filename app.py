@@ -81,7 +81,7 @@ with st.sidebar:
         "esta app identifica la posición que muestres frente a la cámara. 📸"
     )
     st.write("Posiciones que reconoce:")
-    st.markdown("- ⬅️ Izquierda\n- ⬆️ Arriba")
+    st.markdown("- ⬅️ Izquierda\n- ⬆️ Arriba\n- ➡️ Derecha")
 
 # ---------------------------------------------------------
 # Estado para guardar la predicción y el feedback
